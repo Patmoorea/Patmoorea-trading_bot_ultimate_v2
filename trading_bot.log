@@ -1,0 +1,76 @@
+2025-05-03 06:02:00,405 - __main__ - INFO - Chargement des données...
+2025-05-03 06:02:00,411 - __main__ - INFO - Données chargées (1440 points)
+2025-05-03 06:02:00,412 - core.technical_engine - ERROR - Erreur dans compute: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-03 06:02:00,412 - __main__ - ERROR - Erreur d'analyse: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-03 06:02:05,420 - core.technical_engine - ERROR - Erreur dans compute: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-03 06:02:05,420 - __main__ - ERROR - Erreur d'analyse: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-03 06:02:08,973 - __main__ - INFO - Arrêt manuel demandé
+2025-05-03 06:02:08,973 - __main__ - INFO - Bot arrêté
+2025-05-03 06:03:39,370 - __main__ - INFO - Chargement des données...
+2025-05-03 06:03:39,373 - __main__ - INFO - Données chargées (1440 points)
+2025-05-03 06:03:39,462 - __main__ - INFO - RSI: 45.90
+2025-05-03 06:03:39,462 - __main__ - INFO - Bollinger Bands:
+2025-05-03 06:03:39,462 - __main__ - INFO -   Upper: 97625.59
+2025-05-03 06:03:39,462 - __main__ - INFO -   Middle: 96902.20
+2025-05-03 06:03:39,462 - __main__ - INFO -   Lower: 96178.82
+2025-05-03 06:03:40,481 - __main__ - INFO - RSI: 45.90
+2025-05-03 06:03:40,481 - __main__ - INFO - Bollinger Bands:
+2025-05-03 06:03:40,481 - __main__ - INFO -   Upper: 97625.59
+2025-05-03 06:03:40,481 - __main__ - INFO -   Middle: 96902.20
+2025-05-03 06:03:40,481 - __main__ - INFO -   Lower: 96178.82
+2025-05-03 06:03:41,497 - __main__ - INFO - RSI: 45.90
+2025-05-03 06:03:41,497 - __main__ - INFO - Bollinger Bands:
+2025-05-03 06:03:41,498 - __main__ - INFO -   Upper: 97625.59
+2025-05-03 06:03:41,498 - __main__ - INFO -   Middle: 96902.20
+2025-05-03 06:03:41,498 - __main__ - INFO -   Lower: 96178.82
+2025-05-03 06:03:42,514 - __main__ - INFO - RSI: 45.90
+2025-05-03 06:03:42,515 - __main__ - INFO - Bollinger Bands:
+2025-05-03 06:03:42,515 - __main__ - INFO -   Upper: 97625.59
+2025-05-03 06:03:42,515 - __main__ - INFO -   Middle: 96902.20
+2025-05-03 06:03:42,515 - __main__ - INFO -   Lower: 96178.82
+2025-05-03 06:03:43,531 - __main__ - INFO - RSI: 45.90
+2025-05-03 06:03:43,531 - __main__ - INFO - Bollinger Bands:
+2025-05-03 06:03:43,531 - __main__ - INFO -   Upper: 97625.59
+2025-05-03 06:03:43,531 - __main__ - INFO -   Middle: 96902.20
+2025-05-03 06:03:43,531 - __main__ - INFO -   Lower: 96178.82
+2025-05-03 06:03:44,547 - __main__ - INFO - RSI: 45.90
+2025-05-03 06:03:44,548 - __main__ - INFO - Bollinger Bands:
+2025-05-03 06:03:44,548 - __main__ - INFO -   Upper: 97625.59
+2025-05-03 06:03:44,548 - __main__ - INFO -   Middle: 96902.20
+2025-05-03 06:03:44,548 - __main__ - INFO -   Lower: 96178.82
+2025-05-03 06:03:45,072 - __main__ - INFO - Arrêt manuel demandé
+2025-05-03 06:03:45,072 - __main__ - INFO - Bot arrêté
+2025-05-15 06:59:02,501 - __main__ - INFO - Chargement des données...
+2025-05-15 06:59:02,508 - __main__ - INFO - Données chargées (1440 points)
+2025-05-15 06:59:02,508 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:03,513 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:04,519 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:05,525 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:06,531 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:07,227 - __main__ - INFO - Arrêt manuel demandé
+2025-05-15 06:59:07,227 - __main__ - INFO - Bot arrêté
+2025-05-15 06:59:32,960 - __main__ - INFO - Chargement des données...
+2025-05-15 06:59:32,963 - __main__ - INFO - Données chargées (1440 points)
+2025-05-15 06:59:32,963 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:33,968 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:34,970 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:35,973 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:36,979 - __main__ - ERROR - Erreur d'analyse: 'TechnicalEngine' object has no attribute 'compute'
+2025-05-15 06:59:37,207 - __main__ - INFO - Arrêt manuel demandé
+2025-05-15 06:59:37,207 - __main__ - INFO - Bot arrêté
+2025-05-15 07:00:50,103 - __main__ - INFO - Chargement des données...
+2025-05-15 07:00:50,106 - __main__ - INFO - Données chargées (1440 points)
+2025-05-15 07:00:50,108 - __main__ - ERROR - Erreur d'analyse: Failed to convert a NumPy array to a Tensor (Unsupported object type float).
+2025-05-15 07:00:51,115 - __main__ - ERROR - Erreur d'analyse: Failed to convert a NumPy array to a Tensor (Unsupported object type float).
+2025-05-15 07:00:52,119 - __main__ - ERROR - Erreur d'analyse: Failed to convert a NumPy array to a Tensor (Unsupported object type float).
+2025-05-15 07:00:53,125 - __main__ - ERROR - Erreur d'analyse: Failed to convert a NumPy array to a Tensor (Unsupported object type float).
+2025-05-15 07:00:53,870 - __main__ - INFO - Arrêt manuel demandé
+2025-05-15 07:00:53,871 - __main__ - INFO - Bot arrêté
+2025-05-15 07:03:45,066 - __main__ - INFO - Chargement des données...
+2025-05-15 07:03:45,074 - __main__ - INFO - Données chargées (1440 points)
+2025-05-15 07:03:49,647 - __main__ - INFO - Arrêt manuel demandé
+2025-05-15 07:03:49,647 - __main__ - INFO - Bot arrêté
+2025-05-15 07:04:29,917 - __main__ - INFO - Chargement des données...
+2025-05-15 07:04:29,920 - __main__ - INFO - Données chargées (1440 points)
+2025-05-15 07:04:33,506 - __main__ - INFO - Arrêt manuel demandé
+2025-05-15 07:04:33,506 - __main__ - INFO - Bot arrêté

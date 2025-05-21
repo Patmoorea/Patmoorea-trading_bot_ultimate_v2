@@ -1,0 +1,656 @@
+2025-05-12 19:25:06,208 - src.analysis.sentiment.news_sentiment - ERROR - Erreur initialisation pipeline: name 'torch' is not defined
+2025-05-12 19:29:07,603 - src.analysis.sentiment.news_sentiment - ERROR - Erreur initialisation pipeline: invalid low watermark ratio 1.4
+2025-05-13 08:36:37,766 - arbitrage - ERROR - Erreur initialisation binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-05-13 08:38:12,961 - arbitrage - ERROR - Erreur initialisation binance: name 'os' is not defined
+2025-05-13 08:40:10,367 - arbitrage - ERROR - Échec initialisation binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-05-13 09:07:37,736 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,737 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,738 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,834 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,834 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,834 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,834 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,834 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,834 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,834 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,834 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,835 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,836 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,837 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,838 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,839 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:07:37,840 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:09:03,927 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:10:58,174 - src.strategies.arbitrage - INFO - Validation des quotes assets réussie
+2025-05-13 09:11:18,472 - src.strategies.arbitrage - INFO - Conversion BTC/USDT -> BTC/USDC pour binance
+2025-05-13 09:11:18,472 - src.strategies.arbitrage - INFO - Validation des quotes assets réussie
+2025-05-13 09:19:34,997 - arbitrage - ERROR - Erreur sur binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-05-13 09:19:40,437 - arbitrage - ERROR - Erreur sur binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-05-13 12:44:03,894 - arbitrage - INFO - binance initialisé avec succès
+2025-05-13 12:44:09,333 - arbitrage - INFO - okx initialisé avec succès
+2025-05-13 12:44:11,664 - arbitrage - ERROR - Échec initialisation blofin: blofin requires "password" credential
+2025-05-13 18:46:09,147 - root - INFO - BINANCE initialisé avec succès
+2025-05-13 18:46:09,149 - root - INFO - OKX initialisé avec succès
+2025-05-13 18:46:09,167 - root - WARNING - Mode public seulement pour Blofin (pas de passphrase)
+2025-05-13 18:46:09,168 - root - INFO - BLOFIN initialisé avec succès
+2025-05-13 18:46:09,170 - root - INFO - GATEIO initialisé avec succès
+2025-05-13 18:46:09,172 - root - INFO - BINGX initialisé avec succès
+2025-05-14 06:57:00,854 - strategies.arbitrage.real_arbitrage - INFO - Exchange binance initialisé avec succès
+2025-05-14 06:57:00,959 - src.strategies.arbitrage.real_arbitrage - INFO - Exchange binance initialisé avec succès
+2025-05-14 06:57:08,829 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BNB/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:10,395 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BTC/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:11,963 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ETH/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:13,534 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour XRP/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:15,104 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour EOS/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:16,672 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour XLM/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:18,235 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour LINK/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:19,794 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour LTC/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:21,358 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TRX/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:22,918 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ADA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:24,488 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour NEO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:26,055 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ATOM/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:27,620 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ALGO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:29,186 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour DOGE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:30,751 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ONT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:32,318 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BCH/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:33,878 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour SOL/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:35,440 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ARB/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:37,017 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour AVAX/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:38,585 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour DOT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:40,165 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour INJ/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:41,737 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour OP/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:43,323 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ORDI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:44,915 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour SUI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:46,487 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TIA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:48,065 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour MANTA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:49,649 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BLUR/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:51,226 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ALT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:52,802 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour SEI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:54,437 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour JUP/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:56,026 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour FIL/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:57,604 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour WLD/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:57:59,183 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour UNI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:00,767 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour PIXEL/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:02,345 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour STRK/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:03,929 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour PEPE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:05,507 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour SHIB/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:07,083 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour NEAR/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:08,670 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour FET/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:10,235 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour EUR/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:11,795 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BONK/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:13,351 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour FLOKI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:14,907 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour PENDLE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:16,467 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BOME/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:18,035 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour JTO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:19,590 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour WIF/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:21,150 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour CKB/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:22,706 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ENA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:24,278 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ETHFI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:25,871 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour YGG/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:27,460 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour CFX/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:29,055 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour RUNE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:30,644 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour SAGA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:32,228 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour APT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:33,811 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour GALA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:35,401 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour STX/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:36,974 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ICP/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:38,558 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour OMNI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:40,133 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TRB/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:41,697 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ARKM/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:43,269 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour AR/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:44,845 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BB/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:46,409 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour CRV/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:47,977 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour PEOPLE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:49,549 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour REZ/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:51,110 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ENS/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:52,689 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour LDO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:54,260 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour NOT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:55,827 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TNSR/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:57,406 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ZK/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:58:58,984 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ZRO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:00,562 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour IO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:02,136 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour 1000SATS/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:03,697 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour RENDER/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:05,258 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TON/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:06,826 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour DOGS/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:08,400 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour RARE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:10,024 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour SLF/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:11,626 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour AAVE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:13,230 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour POL/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:14,838 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ACT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:16,454 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour NEIRO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:18,062 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour PNUT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:19,665 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour CATI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:21,269 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour FDUSD/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:22,880 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour HBAR/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:24,483 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour OM/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:26,103 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour RAY/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:27,715 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TAO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:29,327 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour APE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:30,935 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour EIGEN/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:32,551 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour MEME/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:34,159 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour 1MBABYDOGE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:35,763 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour CETUS/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:37,367 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour COW/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:38,970 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour DYDX/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:40,604 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour HMSTR/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:42,219 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TURBO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:43,823 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour KAIA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:45,444 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour SAND/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:47,063 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour CHZ/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:48,666 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour PYTH/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:50,288 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour RSR/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:51,894 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour W/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:53,545 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour XTZ/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:55,146 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ACX/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:56,753 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ORCA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:58,365 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour HIVE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 06:59:59,976 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour IDEX/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:01,590 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TLM/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:03,204 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour 1000CAT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:04,809 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour PENGU/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:06,417 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BIO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:08,032 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour MOVE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:09,614 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour PHA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:11,182 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour STEEM/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:12,766 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour USUAL/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:14,346 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour AIXBT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:15,919 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour CGPT/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:17,497 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour COOKIE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:19,065 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour S/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:20,639 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TRUMP/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:22,217 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour ANIME/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:23,796 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour BERA/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:25,362 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour 1000CHEEMS/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:26,940 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour TST/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:28,520 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour LAYER/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:30,104 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour CAKE/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:31,677 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour HEI/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:33,256 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour KAITO/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:34,824 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour SHELL/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:36,407 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour GPS/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:00:37,986 - src.strategies.arbitrage.real_arbitrage - WARNING - Tentative 1: Méthode _fetch_via_order_book échouée pour RED/USDC: '<=' not supported between instances of 'dict' and 'int'
+2025-05-14 07:01:27,744 - strategies.arbitrage.real_arbitrage - INFO - Exchange binance initialisé avec succès

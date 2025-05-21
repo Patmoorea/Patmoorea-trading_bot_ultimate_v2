@@ -1,0 +1,71 @@
+2025-05-06 19:52:39,563 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-06 19:53:01,946 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:43:15,937 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:43:48,809 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:46:33,676 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:48:05,783 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:48:07,255 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:48:31,283 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:48:32,563 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:48:38,196 - INFO - HTTP Request: POST https://api.telegram.org/bot7864430802:AAEMkuWc4zhGxTrP3j3d3mFrIpOJY5Lz_MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-07 06:56:42,481 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10404dd10>
+2025-05-07 06:57:07,766 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x1042c3410>
+2025-05-07 07:18:40,907 - INFO - [2025-05-07T07:18:40.907777] New signal: BTC/USDT BUY (0.85)
+2025-05-07 07:18:40,907 - INFO - [2025-05-07T07:18:40.907985] New signal: ETH/USDT SELL (0.72)
+2025-05-07 07:18:40,908 - INFO - [2025-05-07T07:18:40.908007] Signal confirmed: ETH/USDT
+2025-05-07 07:22:13,581 - INFO - [2025-05-07T07:22:13.581037] New signal: BTC/USDT BUY (0.85)
+2025-05-07 07:22:13,581 - INFO - [2025-05-07T07:22:13.581146] New signal: ETH/USDT SELL (0.72)
+2025-05-07 07:22:13,581 - INFO - [2025-05-07T07:22:13.581177] Signal confirmed: ETH/USDT
+2025-05-07 07:25:59,848 - INFO - [2025-05-07T07:25:59.848294] Calculated position size: 100.00
+2025-05-07 07:26:05,611 - INFO - [2025-05-07T07:26:05.611810] Calculated position size: 100.00
+2025-05-07 07:26:05,611 - INFO - [2025-05-07T07:26:05.611924] New signal: BTC/USDT BUY (0.85)
+2025-05-07 07:26:05,611 - INFO - [2025-05-07T07:26:05.611978] New signal: ETH/USDT SELL (0.72)
+2025-05-07 07:26:05,612 - INFO - [2025-05-07T07:26:05.612002] Signal confirmed: ETH/USDT
+2025-05-07 07:28:57,690 - INFO - [2025-05-07T07:28:57.690832] Calculated position size: 100.00
+2025-05-07 07:29:15,757 - INFO - [2025-05-07T07:29:15.757775] Calculated position size: 100.00
+2025-05-07 07:29:15,757 - INFO - [2025-05-07T07:29:15.757886] New signal: BTC/USDT BUY (0.85)
+2025-05-07 07:29:15,757 - INFO - [2025-05-07T07:29:15.757940] New signal: ETH/USDT SELL (0.72)
+2025-05-07 07:29:15,757 - INFO - [2025-05-07T07:29:15.757964] Signal confirmed: ETH/USDT
+2025-05-07 07:29:22,046 - INFO - [2025-05-07T07:29:22.046114] Calculated position size: 100.00
+2025-05-07 07:33:30,922 - INFO - [2025-05-07T07:33:30.922424] Calculated position size: 100.00
+2025-05-07 07:33:39,715 - INFO - [2025-05-07T07:33:39.715466] Calculated position size: 100.00
+2025-05-07 07:33:39,715 - INFO - [2025-05-07T07:33:39.715608] New signal: BTC/USDT BUY (0.85)
+2025-05-07 07:33:39,715 - INFO - [2025-05-07T07:33:39.715700] New signal: ETH/USDT SELL (0.72)
+2025-05-07 07:33:39,715 - INFO - [2025-05-07T07:33:39.715718] Signal confirmed: ETH/USDT
+2025-05-07 07:33:41,719 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x103313b90>
+2025-05-07 07:33:43,573 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x101456d10>
+2025-05-07 07:33:43,575 - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x10341af20>, 66971.773068041)])']
+connector: <aiohttp.connector.TCPConnector object at 0x1014560d0>
+2025-05-07 07:50:34,328 - INFO - [2025-05-07T07:50:34.328933] Calculated position size: 100.00
+2025-05-07 07:50:51,986 - INFO - [2025-05-07T07:50:51.986242] Calculated position size: 100.00
+2025-05-07 07:50:51,986 - INFO - [2025-05-07T07:50:51.986381] New signal: BTC/USDT BUY (0.85)
+2025-05-07 07:50:51,986 - INFO - [2025-05-07T07:50:51.986476] New signal: ETH/USDT SELL (0.72)
+2025-05-07 07:50:51,986 - INFO - [2025-05-07T07:50:51.986495] Signal confirmed: ETH/USDT
+2025-05-07 07:50:53,575 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x104e90a90>
+2025-05-07 07:50:55,201 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x104d16d50>
+2025-05-07 07:52:37,226 - INFO - [2025-05-07T07:52:37.226370] Calculated position size: 100.00
+2025-05-07 07:52:50,206 - INFO - [2025-05-07T07:52:50.206931] Calculated position size: 100.00
+2025-05-07 07:52:50,207 - INFO - [2025-05-07T07:52:50.207027] New signal: BTC/USDT BUY (0.85)
+2025-05-07 07:52:50,207 - INFO - [2025-05-07T07:52:50.207074] New signal: ETH/USDT SELL (0.72)
+2025-05-07 07:52:50,207 - INFO - [2025-05-07T07:52:50.207092] Signal confirmed: ETH/USDT
+2025-05-07 07:52:53,672 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10562c1d0>
+2025-05-07 08:18:10,561 - INFO - [2025-05-07T08:18:10.560993] Calculated position size: 100.00
+2025-05-07 08:18:10,561 - INFO - [2025-05-07T08:18:10.561228] New signal: BTC/USDT BUY (0.85)
+2025-05-07 08:18:10,561 - INFO - [2025-05-07T08:18:10.561287] New signal: ETH/USDT SELL (0.72)
+2025-05-07 08:18:10,561 - INFO - [2025-05-07T08:18:10.561309] Signal confirmed: ETH/USDT
+2025-05-07 08:18:14,303 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x10346fcd0>
+2025-05-07 08:20:19,747 - INFO - [2025-05-07T08:20:19.747194] Calculated position size: 100.00
+2025-05-07 08:20:19,747 - INFO - [2025-05-07T08:20:19.747497] New signal: BTC/USDT BUY (0.85)
+2025-05-07 08:20:19,747 - INFO - [2025-05-07T08:20:19.747557] New signal: ETH/USDT SELL (0.72)
+2025-05-07 08:20:19,747 - INFO - [2025-05-07T08:20:19.747580] Signal confirmed: ETH/USDT
+2025-05-07 08:20:23,481 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x16590be90>

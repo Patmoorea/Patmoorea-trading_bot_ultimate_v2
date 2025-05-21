@@ -1,0 +1,23 @@
+2025-05-03 16:29:23.335284: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M4
+2025-05-03 16:29:23.335307: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 16.00 GB
+2025-05-03 16:29:23.335312: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 5.33 GB
+2025-05-03 16:29:23.335346: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-05-03 16:29:23.335354: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+=== TEST COMPLET DU SYSTÈME ===
+=== Test TensorFlow ===
+Version: 2.16.1
+GPU configuré: True
+Calcul matrice 10000x10000 sur /GPU:0...
+Test réussi
+
+=== LANCEMENT TEST IA ===
+=== Initialisation ===
+Traceback (most recent call last):
+  File "/Users/patricejourdan/trading_bot_ultimate/full_check.py", line 23, in <module>
+    full_test()
+  File "/Users/patricejourdan/trading_bot_ultimate/full_check.py", line 16, in full_test
+    test_ai()
+  File "/Users/patricejourdan/trading_bot_ultimate/test_ai_final.py", line 10, in main
+    X_train = load_your_real_data()
+              ^^^^^^^^^^^^^^^^^^^
+NameError: name 'load_your_real_data' is not defined

@@ -1,0 +1,6 @@
+2025-05-05 09:40:55,489 - ERROR - Erreur critique: 'ArbitrageEngine' object has no attribute 'check_opportunities_v2'
+Traceback (most recent call last):
+  File "/Users/patricejourdan/trading_bot_ultimate/main.py", line 17, in safe_arbitrage
+    engine.check_opportunities_v2(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArbitrageEngine' object has no attribute 'check_opportunities_v2'

@@ -1,0 +1,12 @@
+2025-05-03 14:02:48.257723: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M4
+2025-05-03 14:02:48.257742: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 16.00 GB
+2025-05-03 14:02:48.257746: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 5.33 GB
+2025-05-03 14:02:48.257760: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-05-03 14:02:48.257767: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+=== TEST COMPLET DU SYSTÈME ===
+=== Test TensorFlow ===
+Version: 2.16.1
+GPU configuré: True
+Calcul matrice 10000x10000...
+Test réussi
+Test IA ignoré (GPU non disponible)

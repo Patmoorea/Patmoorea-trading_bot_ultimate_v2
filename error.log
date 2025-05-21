@@ -1,0 +1,12 @@
+2025-05-15 07:04:29,917 - __main__ - INFO - Chargement des données...
+2025-05-15 07:04:29,920 - __main__ - INFO - Données chargées (1440 points)
+2025-05-15 07:04:33,506 - __main__ - INFO - Arrêt manuel demandé
+2025-05-15 07:04:33,506 - __main__ - INFO - Bot arrêté
+Traceback (most recent call last):
+  File "/Users/patricejourdan/Desktop/trading_bot_ultimate/src/main.py", line 68, in <module>
+    news_monitor = start_news_monitoring(config['NEWS'])
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/patricejourdan/Desktop/trading_bot_ultimate/src/modules/news/start_service.py", line 7, in start_news_monitoring
+    bot_token=config['TELEGRAM_TOKEN'],
+              ~~~~~~^^^^^^^^^^^^^^^^^^
+KeyError: 'TELEGRAM_TOKEN'

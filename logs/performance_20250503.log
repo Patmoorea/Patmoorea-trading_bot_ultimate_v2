@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/patricejourdan/trading_bot_ultimate/monitor.py", line 2, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'

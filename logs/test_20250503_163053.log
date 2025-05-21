@@ -1,0 +1,25 @@
+2025-05-03 16:30:55.100715: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M4
+2025-05-03 16:30:55.100738: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 16.00 GB
+2025-05-03 16:30:55.100742: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 5.33 GB
+2025-05-03 16:30:55.100757: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+2025-05-03 16:30:55.100764: I tensorflow/core/common_runtime/pluggable_device/pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+/Users/patricejourdan/venv/trading_bot/lib/python3.11/site-packages/keras/src/layers/rnn/rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+[I 2025-05-03 16:30:55,944] A new study created in memory with name: no-name-3f08b1f4-2f2a-40bd-82a5-f20d32f01846
+2025-05-03 16:30:56.378823: I tensorflow/core/grappler/optimizers/custom_graph_optimizer_registry.cc:117] Plugin optimizer for device_type GPU is enabled.
+[I 2025-05-03 16:30:59,628] Trial 0 finished with value: 0.08682412654161453 and parameters: {'lr': 0.0007910439221343029}. Best is trial 0 with value: 0.08682412654161453.
+[I 2025-05-03 16:31:00,989] Trial 1 finished with value: 0.08663059771060944 and parameters: {'lr': 1.8182036453113646e-05}. Best is trial 1 with value: 0.08663059771060944.
+[I 2025-05-03 16:31:02,379] Trial 2 finished with value: 0.08592309057712555 and parameters: {'lr': 0.00016810852378736785}. Best is trial 2 with value: 0.08592309057712555.
+=== TEST COMPLET DU SYSTÈME ===
+=== Test TensorFlow ===
+Version: 2.16.1
+GPU configuré: True
+Calcul matrice 10000x10000 sur /GPU:0...
+Test réussi
+
+=== LANCEMENT TEST IA ===
+=== Initialisation ===
+
+=== Début Optimisation ===
+
+Meilleurs paramètres: {'lr': 0.00016810852378736785}
